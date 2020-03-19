@@ -16,7 +16,9 @@ h1 {
     font-size: 120px;
     color: rgba(242,242,242,0.39);
     text-align: center;
-    padding-top: 240px;
+    margin-top: 240px;
+    margin-top: 200px;
+    margin-bottom: auto;
 }
 
 nav ul {
